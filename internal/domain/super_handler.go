@@ -3,8 +3,8 @@ package domain
 import (
 	"context"
 
-	"github.com/ai-core-tools/hsu-echo/go/domain"
-	"github.com/ai-core-tools/hsu-echo/go/logging"
+	"github.com/core-tools/hsu-echo/go/domain"
+	"github.com/core-tools/hsu-echo/go/logging"
 )
 
 func NewSuperHandler(logger logging.Logger) domain.Contract {

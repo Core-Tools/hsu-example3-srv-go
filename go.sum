@@ -1,7 +1,7 @@
-github.com/ai-core-tools/hsu-core v0.0.0-20250617004118-9e1e4b6c5c51 h1:ue9a9W5KuQYoc1RyZk6tAsHboF2MBL/YV17+9v8sneY=
-github.com/ai-core-tools/hsu-core v0.0.0-20250617004118-9e1e4b6c5c51/go.mod h1:LPPqCizqv6uMf/4tsai1cOKdLrilVIFiYrnsMnWaU94=
-github.com/ai-core-tools/hsu-echo v0.0.0-20250617004235-410a7ae78422 h1:ALuvH1EJfHS+Wrw9Ygu5qBhoFd7syWCkFnOEs+5jaiU=
-github.com/ai-core-tools/hsu-echo v0.0.0-20250617004235-410a7ae78422/go.mod h1:/+2doXO9oorNHHfcUyBgNIQnGRspBp2gToEVnR8Mt3c=
+github.com/core-tools/hsu-core v0.0.0-20250619224703-c67bc8d77724 h1:ufrI0g2CofmMZHH1wkvewdSyczH0SIgMPReoS8FceSo=
+github.com/core-tools/hsu-core v0.0.0-20250619224703-c67bc8d77724/go.mod h1:SPgDL5YWT/rUZbfDh7cvcXB7xWLF/Gap9NZwODTAXMA=
+github.com/core-tools/hsu-echo v0.0.0-20250619225556-2c5bf95d2356 h1:1CkPhc6HPLMafW/XPMakVVd+gosK9ZkSZz4UXgxs0Eg=
+github.com/core-tools/hsu-echo v0.0.0-20250619225556-2c5bf95d2356/go.mod h1:xKiaCBCNakaYE+j3Y0qSz/M14BgTF+RRx9IHOaOaPj8=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
