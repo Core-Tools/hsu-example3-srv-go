@@ -1,1 +1,0 @@
-.\cmd\echogrpcsrv\echogrpcsrv.exe --port 50055

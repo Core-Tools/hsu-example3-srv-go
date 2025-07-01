@@ -1,11 +1,20 @@
-module github.com/core-tools/hsu-echo-super-srv-go
+module github.com/core-tools/hsu-example3-srv-go
 
 go 1.22.3
 
-require github.com/core-tools/hsu-echo v0.0.0-20250626220714-58eca1b61773
+replace github.com/core-tools/hsu-core => github.com/core-tools/hsu-core/go v0.0.0-20250629192131-f2790593d496
+
+replace github.com/core-tools/hsu-echo => github.com/core-tools/hsu-example3-common/go v0.0.0-20250701175645-62020145072b
+
+replace github.com/core-tools/hsu-echo-simple => .
 
 require (
-	github.com/core-tools/hsu-core v0.0.0-20250619224703-c67bc8d77724 // indirect
+	github.com/core-tools/hsu-echo v0.0.0-00010101000000-000000000000
+	github.com/core-tools/hsu-echo-simple v0.0.0-00010101000000-000000000000
+)
+
+require (
+	github.com/core-tools/hsu-core v0.0.0-00010101000000-000000000000 // indirect
 	github.com/jessevdk/go-flags v1.6.1 // indirect
 	github.com/phayes/freeport v0.0.0-20220201140144-74d24b5ae9f5 // indirect
 	golang.org/x/net v0.35.0 // indirect

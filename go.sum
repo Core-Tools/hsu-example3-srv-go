@@ -1,7 +1,7 @@
-github.com/core-tools/hsu-core v0.0.0-20250619224703-c67bc8d77724 h1:ufrI0g2CofmMZHH1wkvewdSyczH0SIgMPReoS8FceSo=
-github.com/core-tools/hsu-core v0.0.0-20250619224703-c67bc8d77724/go.mod h1:SPgDL5YWT/rUZbfDh7cvcXB7xWLF/Gap9NZwODTAXMA=
-github.com/core-tools/hsu-echo v0.0.0-20250626220714-58eca1b61773 h1:FWINW4rKYC95+0+mOMnprk0JQboWndrZ17a0X5FBPYY=
-github.com/core-tools/hsu-echo v0.0.0-20250626220714-58eca1b61773/go.mod h1:ulkCEMm3FEhHMxm/Q+VFUTvGHIYe5HipjN24BzKhSQQ=
+github.com/core-tools/hsu-core/go v0.0.0-20250629192131-f2790593d496 h1:Dj0pJXoV5HvUZAwupvzEfgcj6BAo9Inz7qmxLxp+pE0=
+github.com/core-tools/hsu-core/go v0.0.0-20250629192131-f2790593d496/go.mod h1:iJWfsMAlAorzsBDT6tTpV1jYMsN4qPJ46WXUWoXUZ40=
+github.com/core-tools/hsu-example3-common/go v0.0.0-20250701175645-62020145072b h1:ZJgf9bc1onFUoHMyZWjqr/cgCslQPXrBwN3wm66esH0=
+github.com/core-tools/hsu-example3-common/go v0.0.0-20250701175645-62020145072b/go.mod h1:JnYWYZKrdHdKmQG9dvV3Vt45WJEN5izWS8nkjlG39Yg=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
